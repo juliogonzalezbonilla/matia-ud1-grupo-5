@@ -1,0 +1,9 @@
+id,orificios,puntas,alargamiento,prioridad_revision,esperado
+I01,0,2,2.5,1,pinza
+I02,2,2,2.0,1,tijera
+I03,0,1,4.1,1,bisturi
+I04,0,2,2.8,1,pinza
+I05,0,0,1.2,2,revisar
+I06,1,2,2.3,5,revisar
+I07,0,1,2.2,4,revisar
+I08,2,2,2.1,1,tijera
